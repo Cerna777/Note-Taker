@@ -23,4 +23,22 @@ This is a simple web application for taking and managing notes using Express.js.
 
 ```bash
 git clone https://github.com/Cerna777/Note-Taker
-cd express-note-taker
+cd Note-Taker
+
+Install dependencies: npm install
+
+## Usage
+
+- Start the server: node server.js
+- Open your web browser and go to http://localhost:3000.
+- Use the application to take and manage notes.
+
+## Screenshots
+
+## Contributing
+
+- Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
+
+## License
+
+- This project is licensed under the MIT License.
